@@ -1,4 +1,23 @@
 [Delete]
+; 2.13.2 (auto-generated entries for removed/renamed files)
+package\Resources\Binaries\OpenGL\System.Private.Uri.dll
+package\Resources\Binaries\OpenGL\Ude.NetStandard.dll
+package\Resources\Binaries\Windows\System.Private.Uri.dll
+package\Resources\Binaries\Windows\Ude.NetStandard.dll
+package\Resources\Binaries\XNA\Ude.NetStandard.dll
+package\Resources\Binaries\steam_api64.dll
+package\Resources\BinariesNET8\OpenGL\System.Text.Json.dll
+package\Resources\BinariesNET8\OpenGL\Ude.NetStandard.dll
+package\Resources\BinariesNET8\UniversalGL\System.Text.Json.dll
+package\Resources\BinariesNET8\UniversalGL\Ude.NetStandard.dll
+package\Resources\BinariesNET8\Windows\System.Text.Json.dll
+package\Resources\BinariesNET8\Windows\Ude.NetStandard.dll
+package\Resources\BinariesNET8\XNA\System.Text.Json.dll
+package\Resources\BinariesNET8\XNA\Ude.NetStandard.dll
+package\Resources\BinariesNET8\steam_api64.dll
+
+; end entries
+
 cncnet5.dll
 Resources\SpriteFont2.xnb
 Resources\SpriteFont3.xnb
@@ -578,3 +597,4 @@ Maps\Custom\a488fba207efc7910d994a546d410b876bf2dfef.map
 Maps\Yuri's Revenge\CTF
 Maps\Yuri's Revenge\Demolition
 do_not_remove_this_line
+
